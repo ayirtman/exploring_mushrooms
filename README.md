@@ -1,15 +1,15 @@
 # Exploring Mushrooms: A Business Intelligence Data Analysis Project
 
-![Cover](cover.png)
+![Cover](./images/cover.jpeg)
 
 ## Overview
 When asked to think of a mushroom, you might imagine the following:
 
-![Button Mushrooms](button-mushrooms.jpg)
+![Button Mushrooms](./images/button_mushrooms.jpeg)
 
 It’s a beige, convex mushroom top with a uniform, thick stem. Maybe you thought of it cut up on a slice of delicious pizza or braised with sauce over rice. Regardless, you most likely did not consider this:
 
-![Unique Mushrooms](unique-mushrooms.jpg)
+![Unique Mushrooms](./images/unique_mushrooms.jpeg)
 
 Mushrooms exist in a variety of different colors, shapes, sizes, textures, etc. This project analyzes an extensive mushroom dataset from UCI using bar charts and acquaints you with the diverse array of mushrooms that exist worldwide.
 
