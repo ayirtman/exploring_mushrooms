@@ -23,15 +23,13 @@ The dataset used in this project is obtained from [UCI](https://archive.ics.uci.
 
 ## Tools & Libraries
 - Python
-- Matplotlib
 - Seaborn
 - Pandas
-- Numpy
 
 ## How to run this project?
 1. Clone this repository
 2. Make sure all the required dependencies are installed.
-3. Run the `main.ipynb` script from the command line or from your Jupyter Notebook.
+3. Run the `Exploring_Mushrooms.ipynb` script from the command line or from your Jupyter Notebook.
 
 ## Results
 The outcomes of this project can be found in the Jupyter notebooks. A report summarizing the findings is also included in the repository.
